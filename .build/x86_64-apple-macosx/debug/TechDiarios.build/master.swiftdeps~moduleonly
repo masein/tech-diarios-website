@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "20c6fa0f1324fc094ca458009b284c5b"
+build_time: [1625040938, 485163000]
+inputs:
+  "/Users/maseinmody/Desktop/MAsein/Swifting/swiftCoding/Publish-v2/tech-diarios/Sources/TechDiarios/main.swift": [1625040880, 852258070]

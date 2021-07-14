@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/maseinmody/Desktop/MAsein/Swifting/swiftCoding/Publish-v2/tech-diarios/.build/x86_64-apple-macosx/debug/Codextended.build/master.swiftdeps"
+  },
+  "/Users/maseinmody/Desktop/MAsein/Swifting/swiftCoding/Publish-v2/tech-diarios/.build/checkouts/codextended/Sources/Codextended/Codextended.swift": {
+    "dependencies": "/Users/maseinmody/Desktop/MAsein/Swifting/swiftCoding/Publish-v2/tech-diarios/.build/x86_64-apple-macosx/debug/Codextended.build/Codextended.d",
+    "object": "/Users/maseinmody/Desktop/MAsein/Swifting/swiftCoding/Publish-v2/tech-diarios/.build/x86_64-apple-macosx/debug/Codextended.build/Codextended.swift.o",
+    "swiftmodule": "/Users/maseinmody/Desktop/MAsein/Swifting/swiftCoding/Publish-v2/tech-diarios/.build/x86_64-apple-macosx/debug/Codextended.build/Codextended~partial.swiftmodule",
+    "swift-dependencies": "/Users/maseinmody/Desktop/MAsein/Swifting/swiftCoding/Publish-v2/tech-diarios/.build/x86_64-apple-macosx/debug/Codextended.build/Codextended.swiftdeps"
+  }
+}

@@ -1,0 +1,4 @@
+module Codextended {
+    header "/Users/maseinmody/Desktop/MAsein/Swifting/swiftCoding/Publish-v2/tech-diarios/.build/x86_64-apple-macosx/debug/Codextended.build/Codextended-Swift.h"
+    requires objc
+}

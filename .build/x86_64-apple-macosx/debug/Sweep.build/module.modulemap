@@ -1,0 +1,4 @@
+module Sweep {
+    header "/Users/maseinmody/Desktop/MAsein/Swifting/swiftCoding/Publish-v2/tech-diarios/.build/x86_64-apple-macosx/debug/Sweep.build/Sweep-Swift.h"
+    requires objc
+}
