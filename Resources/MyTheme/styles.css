@@ -108,15 +108,16 @@ a {
 .tag {
     display: inline-block;
     margin-right: 5px;
+    padding: 4px 6px;
+    border-radius: 5px;
+    background-color: #000;
+    margin-bottom: 5px;
 }
 
 .tag-list a,
 .tag a {
     text-decoration: none;
-    background-color: #000;
     color: #ddd;
-    padding: 4px 6px;
-    border-radius: 5px;
 }
 
 .item-page .tag-list {
@@ -146,6 +147,11 @@ ul {
   padding-top: 8pt;
   padding-bottom: 5pt;
   margin-inline-start: 25pt;
+}
+
+ul.tag-list {
+  padding-top: 0;
+  padding-bottom: 0;
 }
 
 @media (prefers-color-scheme: dark) {
