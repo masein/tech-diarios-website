@@ -1,5 +1,5 @@
 version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
 options: "b718e227a24b31b19612d773229282ce"
-build_time: [1624949909, 990281000]
+build_time: [1628073143, 966926000]
 inputs:
   "/Users/maseinmody/Desktop/MAsein/Swifting/swiftCoding/Publish-v2/tech-diarios/.build/checkouts/codextended/Sources/Codextended/Codextended.swift": [1619935478, 890604963]

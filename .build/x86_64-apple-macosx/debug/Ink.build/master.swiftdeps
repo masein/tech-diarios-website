@@ -1,6 +1,6 @@
 version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
 options: "a5ab8d731da86f7b9156a64d97966508"
-build_time: [1624949909, 110847000]
+build_time: [1628073143, 449592000]
 inputs:
   "/Users/maseinmody/Desktop/MAsein/Swifting/swiftCoding/Publish-v2/tech-diarios/.build/checkouts/ink/Sources/Ink/API/Markdown.swift": [1619935480, 22492156]
   "/Users/maseinmody/Desktop/MAsein/Swifting/swiftCoding/Publish-v2/tech-diarios/.build/checkouts/ink/Sources/Ink/API/MarkdownParser.swift": [1619935480, 23006348]
