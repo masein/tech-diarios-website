@@ -1,8 +1,8 @@
 ---
 date: 2021-08-04 15:07
-description: we’re gonna review Filecoin at a high level.
+description: We’re gonna review Filecoin at a high level.
 
-tags: techDiarios, filecoin, storage market, retieval market, consensus algorithm, proof od spacetime, collateral
+tags: tech diarios, filecoin, storage market, retieval market, consensus algorithm, proof of spacetime, collateral
 ---
 # Filecoin explanation in a very simple way 
 “The internet is in the middle of a revolution: centralized proprietary services are being replaced with decentralized open ones” this is how Protocol Labs started its white paper on Filecoin.

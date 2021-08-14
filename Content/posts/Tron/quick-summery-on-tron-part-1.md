@@ -1,7 +1,7 @@
 ---
 date: 2021-05-08 17:58
 description: In these series I'm gonna share a quick summery on TRON blockchain
-tags: techDiarios, tron, blockchain
+tags: tech diarios, tron, blockchain
 ---
 # Quick summery on TRON (ep-01) 
 

@@ -1,7 +1,7 @@
 ---
 date: 2021-05-10 17:41
 description: Types of accounts in Tron blockchain
-tags: techDiarios, tron, blockchain, account, TRC-10
+tags: tech diarios, tron, blockchain, account, TRC-10
 ---
 # Quick summery on TRON (ep-04) 
 

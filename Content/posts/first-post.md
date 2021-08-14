@@ -1,7 +1,7 @@
 ---
 date: 2021-05-02 11:38
 description: in less than 15 minutes and with the help of kiloloco's youtube channel ...
-tags: techDiarios, firstPost, publish, kiloloco, swift, JohnSundell
+tags: tech diarios, firstPost, publish, kiloloco, swift, JohnSundell
 ---
 # I just launched my website locally 
 

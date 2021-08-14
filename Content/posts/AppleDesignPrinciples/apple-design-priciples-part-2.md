@@ -2,7 +2,7 @@
 date: 2021-06-27 09:17
 description:  This section contains Visibiity, Consistency, Grouping, Mapping, and Affordance principles
 
-tags: techDiarios, apple, design-principle, Mapping, Grouping, Consistency, Visibiity
+tags: tech diarios, apple, design-principle, Mapping, Grouping, Consistency, Visibiity
 ---
 # Apple design principles (ep-02) 
 

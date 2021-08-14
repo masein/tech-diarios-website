@@ -1,6 +1,6 @@
 ---
 date: 2021-05-12 17:23
-tags: techDiarios, SSH key, macOS
+tags: tech diarios, SSH key, macOS
 ---
 # Adding your SSH key to the ssh-agent in macOS
 

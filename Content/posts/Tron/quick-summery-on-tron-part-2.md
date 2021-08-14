@@ -1,7 +1,7 @@
 ---
 date: 2021-05-09 08:21
 description: In this post we will look a bit closer into transactions in TRON blockchain
-tags: techDiarios, tron, blockchain, TVM, transaction fee, energy, bandwidth
+tags: tech diarios, tron, blockchain, TVM, transaction fee, energy, bandwidth
 ---
 # Quick summery on TRON (ep-02) 
 

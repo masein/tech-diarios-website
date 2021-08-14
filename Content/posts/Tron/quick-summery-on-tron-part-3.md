@@ -1,7 +1,7 @@
 ---
 date: 2021-05-09 09:51
 description: We will get deeper in bandwidth and energy
-tags: techDiarios, tron, blockchain, staking, energy, bandwidth
+tags: tech diarios, tron, blockchain, staking, energy, bandwidth
 ---
 # Quick summery on TRON (ep-03) 
 

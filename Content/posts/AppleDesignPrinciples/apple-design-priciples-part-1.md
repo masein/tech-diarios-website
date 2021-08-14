@@ -2,7 +2,7 @@
 date: 2021-06-13 12:18
 description:  In WWDC 2017 Mike Stern describes design principles in order to help developers and designers to have better apps, he starts by describing the airport signs which help people navigating through complex environment quickly and successfully. These signs that we follow are called wayfinding systems.
 
-tags: techDiarios, apple, design-principle, feedback
+tags: tech diarios, apple, design-principle, feedback
 ---
 # Apple design principles (ep-01) 
 
