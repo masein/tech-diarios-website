@@ -2,7 +2,7 @@
 date: 2021-08-14 17:37
 description: Terms & Storage Market
 
-tags: tech diarios, filecoin, fragment, actor, AllocTable, commintment, pledge, SNARK, replica
+tags: tech diarios, filecoin, fragment, actor, AllocTable, commitment, pledge, SNARK, replica
 ---
 # Filecoin explanation in depth (ep-01)  
 
