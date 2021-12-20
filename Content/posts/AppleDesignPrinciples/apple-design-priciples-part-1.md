@@ -27,16 +27,16 @@ What Mike means is that your app's interface is really just one big old wayfindi
  
 Next principle is feedback, Mike switched to cars, because they're great way for us to learn about the design principle of feedback
  
-Forms of feedback in cars:
+Forms of feedback in cars:  
  
-- status feedback, let us know how the car is doing
-- completion feedback, let us know whether the actions we've performed are completed successfully or failed
-- warning feedback, to tell us about potential problems
-- error feedback, let us know when something we've tried to do has caused an error
+- status feedback, let us know how the car is doing  
+- completion feedback, let us know whether the actions we've performed are completed successfully or failed  
+- warning feedback, to tell us about potential problems  
+- error feedback, let us know when something we've tried to do has caused an error  
  
-Now let get deeper in these feedback by their examples in cars and apps:
+Now let get deeper in these feedback by their examples in cars and apps:  
  
-1. Status
+1. Status  
   - like gears, fuel level and current speed
  
   <p align="center">
